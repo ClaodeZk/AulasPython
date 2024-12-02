@@ -1,0 +1,1 @@
+Material desenvolvido durante aulas de Python. Para o código do Learn funcionar primeiro precisa executar ele para filtrar os restaurantes e criar arquivos Json com eles. Depois, criar o ambiente virtual e instalar o fastapi e o uvicorn. 
